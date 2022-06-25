@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Occulus Quest2",
+    "price": 449,
+    "imgUrl": "https://m.media-amazon.com/images/I/51odsYyURHL._AC_SX679_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "https://s.yimg.com/os/creatr-uploaded-images/2020-11/c8aea820-28a0-11eb-9f89-5ddd62987703"
+  },
+  {
+    "id": 3,
+    "name": "Tv",
+    "price": 499,
+    "imgUrl": "https://www.lg.com/us/images/tvs/md07511603/gallery/desktop-01.jpg"
+  },
+  {
+    "id": 4,
+    "name": "iPhone",
+    "price": 1600,
+    "imgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1644969385433"
+  }
+]
