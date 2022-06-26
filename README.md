@@ -1,7 +1,7 @@
 # React TypeScript Project
-`mkdir react-typescript-project`
-`cd  react-typescript-project`
-`npm create vite .`
+`mkdir react-typescript-project`<br/>
+`cd  react-typescript-project`<br/>
+`npm create vite .`<br/>
 Give a project name and select react typescript <br/>
-`npm install`
+`npm install`<br/>
 `npm run dev`
