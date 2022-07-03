@@ -10,8 +10,8 @@ type ShoppingCartItems = {
   removeFromCart: (id: number) => void,
   cartQuantity: number,
   cartItems: CartItem[],
-  openCart: void,
-  closeCart: void
+  openCart: () => void,
+  closeCart: () => void
 }
 type CartItem = {
   id: number,
